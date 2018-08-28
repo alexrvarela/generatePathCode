@@ -1,6 +1,6 @@
 # generatePathCode
 
-Export bezier paths to code from Adobe illustrator made easy.
+Export easy bezier paths to code from Adobe illustrator.
 
 ## Installation
 
