@@ -1,10 +1,10 @@
 # generatePathCode
 
-Export bezier paths to code from Adobe illustrator made simple.
+Export bezier paths to code from Adobe illustrator made easy.
 
 ## Installation
 
-Download script and copy "generatePathCode.jsx" file to Adobe Illustrator's Scripts directory:
+Download and copy "generatePathCode.jsx" file to Adobe Illustrator's Scripts directory:
 
 Mac reference:
 "Applications\Adobe Illustrator CC 2018\Presets\en_US\Scripts"
